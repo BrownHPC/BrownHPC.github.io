@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brown HPC workshops and tutorials</title>
+    <link>https://brownhpc.github.io/</link>
+    <description>Recent content on Brown HPC workshops and tutorials</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Apr 2020 20:19:24 -0400</lastBuildDate>
+    
+	<atom:link href="https://brownhpc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beginner_slurm</title>
+      <link>https://brownhpc.github.io/workshops/beginner_slurm/</link>
+      <pubDate>Wed, 22 Apr 2020 20:19:24 -0400</pubDate>
+      
+      <guid>https://brownhpc.github.io/workshops/beginner_slurm/</guid>
+      <description>Hello there here is a page</description>
+    </item>
+    
+  </channel>
+</rss>
